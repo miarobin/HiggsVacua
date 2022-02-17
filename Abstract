@@ -1,0 +1,10 @@
+Experimental measurements point at the Standard Model (SM) as the theory of electroweak
+symmetry breaking, but as we close in on our characterization the question arises of what limits
+in theory space lead to the SM. The class of theories with this property cannot be ruled out, only
+constrained to an ever smaller neighbourhood of the SM. In contrast, which class of theories do not
+posses this limit and can therefore potentially be ruled out experimentally?
+
+In this talk, I aim to explain: what Standard Model Effective Field Theory & Higgs Effective Field Theory are; why treating them geometrically is particularly intuitive; and some neat results. Finally, we discuss evidence that Standard Model Effective field theory may be the single road to the Standard Model. Theories that fall outside this class keeping a ‘minimum distance’ from the SM characterized by a cut-off of at most 4πv/g, where g is some coupling term, and could be experimentally ruled out.
+
+
+Effective field theories are crucial tools in our quest to find new physics beyond the Standard Model. In the electroweak sector, the Higgs Effective Field Theory (HEFT) is the generalised model, encompassing even the Standard Model Effective Field Theory (SMEFT). The key difference being whether the Higgs boson itself transforms as part of the classic doublet H, or not. The class of theories lying in HEFT but not SMEFT is what we look to explore. Is ...
